@@ -1,0 +1,6 @@
+@tailwind components;
+@tailwind utilities;
+
+.block1 {
+  color: red;
+}
